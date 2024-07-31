@@ -29,7 +29,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </div>
 
-<p align="center">
+<p align="center" display="inline-block">
   <br>
   <br>
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=SHU-sy&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&bg_color=00000000">
