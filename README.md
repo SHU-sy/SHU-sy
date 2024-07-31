@@ -36,6 +36,10 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SHU-sy&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6">
   <br>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src ="https://github-readme-stats.vercel.app/api/wakatime?username=SHUsy&theme=transparent&hide_border=true"/>
-  </a>
 </p>
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src ="https://github-readme-stats.vercel.app/api/wakatime?username=SHUsy&theme=transparent&hide_border=true"/>
+  </a>
+</div>
+
