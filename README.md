@@ -33,13 +33,13 @@
   <br>
   <br>
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=SHU-sy&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SHU-sy&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/wakatime?username=SHUsy&theme=transparent&hide_border=true"/>
   <br>
   <br>
 </p>
-
+    
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src ="https://github-readme-stats.vercel.app/api/wakatime?username=SHUsy&theme=transparent&hide_border=true"/>
-  </a>
+  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={soo_jx})](https://solved.ac/{soo_jx})
 </div>
 
