@@ -34,7 +34,6 @@
 <p align="center" display="inline-block">
   <br>
   <br>
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=SHU-sy&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/wakatime?username=SHUsy&theme=transparent&hide_border=true"/>
   <br>
   <br>
