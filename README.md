@@ -29,7 +29,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={soo_jx})](https://solved.ac/{soo_jx})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soo_jx)](https://solved.ac/soo_jx)
 
 <p align="center" display="inline-block">
   <br>
