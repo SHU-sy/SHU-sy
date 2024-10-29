@@ -30,7 +30,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={soo_jx})](https://solved.ac/{soo_jx})
-</div>
 
 <p align="center" display="inline-block">
   <br>
