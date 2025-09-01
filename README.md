@@ -4,21 +4,17 @@
 
   <br>
   <br>
-  <br>
 </p>
 
-<div align="center">
-
-  <br>
-  <br>
+<div align=center>
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soo_jx)](https://solved.ac/soo_jx)
-
-<p align="center" display="inline-block">
-  <br>
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/wakatime?username=SHUsy&theme=transparent&hide_border=true"/>
-  <br>
-  <br>
-</p>
+   <h3>:bulb: Problem Solving </h3>
+   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soo_jx)](https://solved.ac/soo_jx)
+   <br/><br/>
+  
+   <h3>:bar_chart: Most Used Languages </h3>
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHU_sy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+</div>
