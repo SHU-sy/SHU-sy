@@ -14,7 +14,7 @@
   
    <h3>:bar_chart: Most Used Languages </h3>
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHU_sy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHU-sy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
   
 </div>
