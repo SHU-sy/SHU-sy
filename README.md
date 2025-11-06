@@ -4,13 +4,17 @@
 
 <div align=center>
   
-   <h3>:bulb: Problem Solving </h3>
+   <h3> :bulb: Problem Solving </h3>
    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soo_jx)](https://solved.ac/soo_jx)
    <br/><br/>
   
-   <h3>:bar_chart: Most Used Languages </h3>
-   
+   <h3> :bar_chart: Most Used Languages </h3>
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHU-sy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+   <br/><br/>
+
+   <h3> 😎 Weekly development </h3>
+   <!--START_SECTION:waka-->
+   <!--END_SECTION:waka-->
   
   
 </div>
