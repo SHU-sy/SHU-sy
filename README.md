@@ -11,23 +11,11 @@
    <h3> :bar_chart: Most Used Languages </h3>
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHU-sy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
    <br/><br/>
+</div>
 
-   <h3> 😎 Weekly development </h3>
+
+<div align=center>
+  <h3> 😎 Weekly development </h3>
    <!--START_SECTION:waka-->
-
-```txt
-From: 29 October 2025 - To: 05 November 2025
-
-Total Time: 13 hrs 52 mins
-
-TypeScript       8 hrs 10 mins   ██████████████▓░░░░░░░░░░   58.78 %
-Python           4 hrs 6 mins    ███████▒░░░░░░░░░░░░░░░░░   29.59 %
-JavaScript       54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-JSON             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-CSS              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-```
-
-<!--END_SECTION:waka-->
-  
-  
+    <!--END_SECTION:waka-->
 </div>
