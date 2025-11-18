@@ -20,13 +20,13 @@
    <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2025 - To: 16 November 2025
+From: 10 November 2025 - To: 17 November 2025
 
-TypeScript        9 hrs 18 mins   >>>>>>>>>>>>-------------   49.03 %
-XML               1 hr 58 mins    >>>----------------------   10.43 %
-Java              1 hr 46 mins    >>-----------------------   09.35 %
-Python            1 hr 34 mins    >>-----------------------   08.33 %
-JSON              1 hr 18 mins    >>-----------------------   06.86 %
+TypeScript        7 hrs 35 mins   >>>>>>>>>>>--------------   43.25 %
+Java              4 hrs 13 mins   >>>>>>-------------------   24.10 %
+XML               1 hr 58 mins    >>>----------------------   11.28 %
+JSON              1 hr 5 mins     >>-----------------------   06.18 %
+Python            42 mins         >------------------------   04.00 %
 ```
 
 <!--END_SECTION:waka-->
