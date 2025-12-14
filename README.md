@@ -16,10 +16,10 @@
    <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2025 - To: 12 December 2025
+From: 06 December 2025 - To: 13 December 2025
 
-Python           2 hrs 44 mins   >>>>>>>>>>>>>>-----------   56.38 %
-Java             49 mins         >>>>---------------------   16.99 %
+Python           2 hrs 44 mins   >>>>>>>>>>>>>>-----------   56.39 %
+Java             49 mins         >>>>---------------------   17.00 %
 XML              22 mins         >>-----------------------   07.68 %
 JavaScript       20 mins         >>-----------------------   06.99 %
 YAML             8 mins          >------------------------   03.06 %
