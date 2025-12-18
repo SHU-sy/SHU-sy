@@ -16,13 +16,10 @@
    <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2025 - To: 16 December 2025
+From: 10 December 2025 - To: 17 December 2025
 
-Python       2 hrs 15 mins   >>>>>>>>>>>>>>>>---------   65.29 %
-Java         49 mins         >>>>>>-------------------   23.83 %
-XML          22 mins         >>>----------------------   10.81 %
-JSON         0 secs          -------------------------   00.05 %
-Properties   0 secs          -------------------------   00.01 %
+Python   2 hrs 15 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.92 %
+JSON     0 secs          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
