@@ -16,13 +16,13 @@
    <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2026 - To: 01 April 2026
+From: 26 March 2026 - To: 02 April 2026
 
-Java              14 mins               >>>>>>>>>>>>>>>>>>>>>>>>>   99.84 %
-Properties        0 secs                -------------------------   00.07 %
-Java Properties   0 secs                -------------------------   00.06 %
-HTML              0 secs                -------------------------   00.02 %
-Gradle            0 secs                -------------------------   00.01 %
+TypeScript        1 hr 17 mins          >>>>>>>>>>>>>>>>>>>>>----   84.57 %
+Java              14 mins               >>>>---------------------   15.38 %
+Markdown          0 secs                -------------------------   00.03 %
+Properties        0 secs                -------------------------   00.01 %
+Java Properties   0 secs                -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
