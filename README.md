@@ -16,13 +16,13 @@
    <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2026 - To: 02 April 2026
+From: 27 March 2026 - To: 03 April 2026
 
-TypeScript        1 hr 17 mins          >>>>>>>>>>>>>>>>>>>>>----   84.57 %
-Java              14 mins               >>>>---------------------   15.38 %
-Markdown          0 secs                -------------------------   00.03 %
-Properties        0 secs                -------------------------   00.01 %
-Java Properties   0 secs                -------------------------   00.01 %
+TypeScript        2 hrs 39 mins         >>>>>>>>>>>>>------------   51.73 %
+Python            1 hr 3 mins           >>>>>--------------------   20.67 %
+Java              53 mins               >>>>---------------------   17.26 %
+textmate          15 mins               >------------------------   04.90 %
+Kotlin            11 mins               >------------------------   03.68 %
 ```
 
 <!--END_SECTION:waka-->
