@@ -16,13 +16,13 @@
    <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2026 - To: 12 April 2026
+From: 06 April 2026 - To: 13 April 2026
 
-Python             2 hrs 22 mins         >>>>>>>>>>>>>>>>>--------   67.22 %
-JSON               26 mins               >>>----------------------   12.41 %
-.env file          14 mins               >>-----------------------   06.91 %
-Markdown           9 mins                >------------------------   04.61 %
-Kotlin             5 mins                >------------------------   02.68 %
+Python             2 hrs 22 mins         >>>>>>>>>----------------   36.76 %
+Java               1 hr 2 mins           >>>>---------------------   15.98 %
+Java Properties    35 mins               >>-----------------------   09.24 %
+Kotlin             35 mins               >>-----------------------   09.10 %
+JSON               26 mins               >>-----------------------   06.79 %
 ```
 
 <!--END_SECTION:waka-->
