@@ -16,13 +16,13 @@
    <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2026 - To: 16 April 2026
+From: 10 April 2026 - To: 17 April 2026
 
-TypeScript         4 hrs                 >>>>>>>>>----------------   35.00 %
-Python             2 hrs 22 mins         >>>>>--------------------   20.77 %
-Java               1 hr 2 mins           >>-----------------------   09.03 %
-JSON               37 mins               >------------------------   05.39 %
-Java Properties    35 mins               >------------------------   05.22 %
+TypeScript        4 hrs                 >>>>>>>>>>>>>------------   50.65 %
+Java              1 hr                  >>>----------------------   12.76 %
+Java Properties   35 mins               >>-----------------------   07.56 %
+Kotlin            29 mins               >>-----------------------   06.24 %
+YAML              20 mins               >------------------------   04.26 %
 ```
 
 <!--END_SECTION:waka-->
