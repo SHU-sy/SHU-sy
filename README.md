@@ -16,13 +16,13 @@
    <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2026 - To: 20 April 2026
+From: 14 April 2026 - To: 21 April 2026
 
-TypeScript   4 hrs                 >>>>>>>>>>>>>>>>>>>>-----   78.28 %
-Bash         15 mins               >------------------------   05.19 %
-.env file    13 mins               >------------------------   04.54 %
-JavaScript   13 mins               >------------------------   04.25 %
-JSON         10 mins               >------------------------   03.47 %
+TypeScript   3 hrs 26 mins         >>>>>>>>>>>>>>>>>>>>>>---   86.65 %
+JavaScript   13 mins               >------------------------   05.48 %
+Bash         9 mins                >------------------------   04.08 %
+Other        6 mins                >------------------------   02.53 %
+.env file    2 mins                -------------------------   01.25 %
 ```
 
 <!--END_SECTION:waka-->
